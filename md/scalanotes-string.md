@@ -18,4 +18,4 @@ val s: String = f"name:${steve}, score:${score}%.2f"
 s插值器<font color="red">既支持值替换，又支持字符串格式化</font>（%d,%f,%s等）  
 
 
-[go index](README.md)
+* [go parent](scalanotes-home.md)
